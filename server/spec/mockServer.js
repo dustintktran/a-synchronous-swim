@@ -3,7 +3,7 @@
 // Mock out the node request / response functions
 // Note: these are useful when running bare node.
 // There are better options if using expressjs.
-/////////////////////////////////////////////////
+/////////////////////////////////////////////////X
 
 var request = function(url, method, postdata) {
   this.url = url;
